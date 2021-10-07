@@ -1,5 +1,5 @@
 # Hoja de vida
-<img src="img/foto.jpg" width="150">
+<img src= "img/foto.jpg" width="150">
 
 ## Datos personales
 | Nombre |Daniel Ramirez|
